@@ -11,6 +11,7 @@ General approach:
 - PCA retained 24 columns – which explained 95% of variance
 
 [Linear Regression](https://github.com/dap29/Walkability_Index_SamsungAI_Project/blob/main/Supervised_ML_Linear_Regression.ipynb)
+
 [Logistic Regression](https://github.com/dap29/Walkability_Index_SamsungAI_Project/blob/main/Supervised_ML_Logistic_Regression_PCA.ipynb)
 
 
