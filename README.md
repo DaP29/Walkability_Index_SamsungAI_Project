@@ -10,6 +10,6 @@ General approach:
 - Data cleanup involved duplicate removal, one-hot encoding (for Object data), imputing with the mean (for numerical data) and most frequent value (for Object data), and scaling
 - PCA retained 24 columns – which explained 95% of variance
 
-`[Logistic Regression]`(https://github.com/dap29/Walkability_Index_SamsungAI_Project/blob/main/Supervised_ML_Linear_Regression.ipynb)
+[Linear Regression](https://github.com/dap29/Walkability_Index_SamsungAI_Project/blob/main/Supervised_ML_Linear_Regression.ipynb)
 
 
