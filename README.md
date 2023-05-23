@@ -6,8 +6,8 @@ This project uses the Census Data to predict the walkability index class i.e. wa
 
 General approach:
 - Data preprocessing included data cleanup and PCA
-- Data cleanup involved duplicate removal, one-hot encoding (for Object data), imputing with the mean(for numerical data) and most frequent value(for Object data), and scaling
-PCA retained 24 columns – which explained95% of variance
+- Data cleanup involved duplicate removal, one-hot encoding (for Object data), imputing with the mean (for numerical data) and most frequent value (for Object data), and scaling
+- PCA retained 24 columns – which explained 95% of variance
 
 
 
